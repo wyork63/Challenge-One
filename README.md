@@ -18,7 +18,7 @@ For this challenge I had to refactor a website for better HTML and CSS syntax. I
 [Wyork Challenge One](https://wyork63.github.io/Challenge-One/index.html)
 
 # Screenshot of Page
-![Screenshot of Page] (/assets/images/Run Buddy screenshot.png "screenshot of page)
+![Screenshot of Page] (/assets/images/Run Buddy screenshot.png "screenshot of page")
 
 
 
