@@ -17,5 +17,9 @@ For this challenge I had to refactor a website for better HTML and CSS syntax. I
 # Link to Deployed Application 
 [Wyork Challenge One](https://wyork63.github.io/Challenge-One/index.html)
 
+# Screenshot of Page
+! [screenshot] (assets/images/Run Buddy screenshot.png)
+
+
 
 
